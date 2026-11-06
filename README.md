@@ -1,10 +1,9 @@
 - This is the implementation of RACCM and  CCA-k-RFP-M1.
 
 - Important things to do before testing:
-  1) Extract the zip file.
-  2) Open a terminal and move to the folder using the cd command.
-  3) Install the necessary libraries.
-  4) For Mac users, it is possible that the solver will not work for security reasons.
+  1) Open a terminal and move to the folder using the cd command.
+  2) Install the necessary libraries.
+  3) For Mac users, it is possible that the solver will not work for security reasons.
      In that case, go to the system security settings (System Preferences → Security & Privacy),
      allow access, and it will work.
 
